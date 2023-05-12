@@ -1,3 +1,7 @@
+NOTE:
+This is a fork to ATS to supported PostgreSQL virtual column before Rails 7 (currently at Rails 6.1.7)
+From Rails 7, it is natively supported so the gem is no longer needed.
+
 # Pg Generated Column Support
 
 This is a backport of the generated column support that was added to
